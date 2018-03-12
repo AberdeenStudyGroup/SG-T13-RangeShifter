@@ -1,6 +1,6 @@
 # SG-T13-RangeShifter
 
-## What is RangeShifter
+## What is RangeShifter?
 As technology advances, our need for techniques to analyse “big data” drives the development of new models that can encompass more complex ecosystems and phenomena such as evolution, species interactions and dispersal. **RangeShifter** is a new modelling platform that allows us to incorporate life history traits and dispersal strategies to illustrate eco-evolutionary dynamics and species’ responses to environmental changes.
 
 The program offers a high degree of flexibility in research question and can be tailored to mechanistically represent the movement behaviour of many different species. **Application possibilities include the testing of various conservation strategies in order to assess efficacy and knock-on effects, analysing habitat connectivity by identifying stepping-stone sites or movement corridors, and testing dispersal under climate change.**
